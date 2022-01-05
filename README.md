@@ -1,9 +1,9 @@
 # funnyApis
 
-+ https://developer.marvel.com/docs #Esta API es de los personajes del mundo de marvel
-+ https://hp-api.herokuapp.com/
-+ https://dragon-ball-api.herokuapp.com/documentation
-+ https://rickandmortyapi.com/
-+ https://pokeapi.co/
-+ https://www.igdb.com/discover
-+ https://swapi.dev/
++ https://developer.marvel.com/docs    #### Esta API es de los personajes del mundo de marvel
++ https://hp-api.herokuapp.com/    #### Esta API es de aquellos fanaticos de Harry Potter
++ https://dragon-ball-api.herokuapp.com/documentation    #### Esta API es de los poderosos personajes del munfo de Dragon Ball
++ https://rickandmortyapi.com/    #### Esta API es de los personajes del mundo de marvel
++ https://pokeapi.co/    #### Esta API es de la serie popular Pokemon
++ https://www.igdb.com/discover    #### Esta API es para las personas fanaticas a los videos juegos. (Es sobre los video juegos)
++ https://swapi.dev/    #### Esta API es para los 
