@@ -6,4 +6,4 @@
 + https://rickandmortyapi.com/    #### Esta API es de los personajes del mundo de marvel
 + https://pokeapi.co/    #### Esta API es de la serie popular Pokemon
 + https://www.igdb.com/discover    #### Esta API es para las personas fanaticas a los videos juegos. (Es sobre los video juegos)
-+ https://swapi.dev/    #### Esta API es para los 
++ https://swapi.dev/    #### Esta API es para los Padawan.(API de StarWar)
