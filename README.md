@@ -8,3 +8,4 @@
 + https://www.igdb.com/discover    #### Esta API es para las personas fanaticas a los videos juegos. (Es sobre los video juegos)
 + https://www.swapi.tech/    #### Esta API es para los Padawan.(API de StarWar) "Esta es más recomendable que la siguiente"
 + https://swapi.dev/    #### Esta API es para los Padawan.(API de StarWar)
+https://developers.themoviedb.org/3/getting-started/introduction    #### API que contiene la información de películas
