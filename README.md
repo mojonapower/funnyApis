@@ -18,3 +18,4 @@
 + https://pixelixe.com/    #### genere gráficos automáticamente con un solo click.
 + https://api.nasa.gov/    #### Una api interesante para practicar.
 + https://dog.ceo/dog-api/    #### Api que contiene informacion de nuestros mejores amigos.
++ https://disneyapi.dev/    #### Api para recordar tu infancia con los amigos de disney.
