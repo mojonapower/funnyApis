@@ -20,3 +20,4 @@
 + https://dog.ceo/dog-api/    #### Api que contiene informacion de nuestros mejores amigos.
 + https://disneyapi.dev/    #### Api para recordar tu infancia con los amigos de disney.
 + https://thronesapi.com/    #### Api para revivir a los dragones con juego de tronos.
++ https://restcountries.com/    #### Api de paises.
